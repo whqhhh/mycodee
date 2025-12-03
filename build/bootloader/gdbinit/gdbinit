@@ -1,0 +1,2 @@
+source D:/esp-code/mu coursedesign/build/bootloader/gdbinit/symbols
+source D:/esp-code/mu coursedesign/build/bootloader/gdbinit/connect
